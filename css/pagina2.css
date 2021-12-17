@@ -1,0 +1,35 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  color: brown;
+  background-color: wheat;
+}
+.ingredientes {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 16 px;
+  font-style: italic;
+}
+.preparacion {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 18px;
+}
+ul {
+  list-style-type: circle;
+  font-style: italic;
+  color: rgba(26, 92, 54, 0.822);
+}
+
+ol {
+  list-style-type: lower-alpha;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(105, 69, 71);
+}
+button {
+  display: block;
+  margin: auto;
+}
+body {
+  background-color: rgb(231, 158, 48);
+}
